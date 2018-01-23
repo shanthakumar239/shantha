@@ -6,7 +6,7 @@ public interface Autoconstant {
 	String GECKO_KEY = "webdriver.gecko.driver";
 	String GECKO_VALUE = "./drivers/geckodriver.exe";
 	 String path = "./Data/input.xlsx"; 
-	 //String value="shantha";
+	
 	}
 
 
