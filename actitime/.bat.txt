@@ -1,0 +1,2 @@
+java -cp bin:jars/*org.TestNG test.xml.&pause
+
